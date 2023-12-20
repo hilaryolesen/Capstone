@@ -5,6 +5,8 @@ This project aims to discover if media sentiment toward climate change shifts af
 
 Dataset columns (dataset available upon request only): Titles,	Dates,	Authors,	URLs,	Texts,	Source
 
+Model used: Jochen Hartmann, "Emotion English DistilRoBERTa-base". [https://huggingface.co/j-hartmann/emotion-english-distilroberta-base/](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base/), 2022.
+
 Jupyter Notebook Descriptions:
 * WebscrabeWINKmanyArticles.ipynb - used to gather dataset information from [WINK News](https://winknews.com/)
 * WebscrabeFOXmanyArticles.ipynb - used to gather dataset information from [Fox 4](https://www.fox4now.com/)
